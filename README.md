@@ -1,8 +1,8 @@
-# Hi there,I'm Huru! 👋
+# Hi there,I'm Ilahe! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hurualqayeva&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ilahe2007&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurualqayeva&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilahe2007&layout=compact" />
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
