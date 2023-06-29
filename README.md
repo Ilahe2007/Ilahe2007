@@ -5,11 +5,11 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilahe2007&layout=compact" />
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilahe2007&" alt="Ilahe2007" />
+
 [![Linkedin: ilahaalgayeva](https://img.shields.io/badge/-ilahaalgayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ilahaalgayeva)](https://www.linkedin.com/in/ilahaalgayeva/)
 [![GitHub Ilahe2007](https://img.shields.io/github/followers/Ilahe2007?label=follow&style=social)](https://github.com/Ilahe2007)
 ![profile count](https://komarev.com/ghpvc/?username=ruikishimoto&color=red)&nbsp;
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilahe2007&" alt="Ilahe2007" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
