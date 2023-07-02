@@ -14,15 +14,17 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilahe2007&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilahe2007&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilahe2007&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilahe2007&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ilahe2007&theme=dark&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
+<div align='center'>
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilahe2007&layout=compact&langs_count=7&theme=radical">
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=Ilahe2007&theme=radical&row=1&column=6" alt="trophy">
+  </a>
+  <br/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
+    <img height="150em" alt="Ilahe2007's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ilahe2007?cardType=level&theme=radical&preferLogin=false" />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Ilahe2007&theme=radical" alt="GitHub Streak">
+  </a>
+</div>
