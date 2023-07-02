@@ -14,4 +14,15 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
+<details>
+   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilahe2007&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilahe2007&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilahe2007&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilahe2007&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ilahe2007&theme=dark&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details>
