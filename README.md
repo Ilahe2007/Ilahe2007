@@ -1,6 +1,6 @@
 # Hi there, I'm Ilahe! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ilahe2007&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ilahe2007&show_icons=true&theme=radical" /> 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilahe2007&layout=compact" />
 
